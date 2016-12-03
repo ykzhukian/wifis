@@ -1,0 +1,139 @@
+[27-Jan-2016 21:36:26 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:26 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:26 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:26 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:26 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:26 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:26 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:26 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:26 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:26 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:26 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:26 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:27 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:27 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:27 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:27 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:32 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:32 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:32 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:32 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:32 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:32 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:32 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:32 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:32 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:32 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:33 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[27-Jan-2016 21:36:33 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/populate.php on line 14
+[13-May-2016 19:12:39 America/Denver] PHP Notice:  Undefined index: spotName in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 3
+[13-May-2016 19:12:39 America/Denver] PHP Notice:  Undefined index: name in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 9
+[13-May-2016 19:12:39 America/Denver] PHP Notice:  Undefined index: email in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 10
+[13-May-2016 19:12:39 America/Denver] PHP Notice:  Undefined index: rating in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 11
+[13-May-2016 19:12:39 America/Denver] PHP Notice:  Undefined index: comment in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 12
+[13-May-2016 19:12:39 America/Denver] PHP Notice:  Undefined index: time in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 13
+[13-May-2016 19:12:39 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'SpotName' cannot be null' in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php:14
+Stack trace:
+#0 /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php(14): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 14
+[13-May-2016 19:12:45 America/Denver] PHP Notice:  Undefined index: spotName in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 3
+[13-May-2016 19:12:45 America/Denver] PHP Notice:  Undefined index: name in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 9
+[13-May-2016 19:12:45 America/Denver] PHP Notice:  Undefined index: email in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 10
+[13-May-2016 19:12:45 America/Denver] PHP Notice:  Undefined index: rating in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 11
+[13-May-2016 19:12:45 America/Denver] PHP Notice:  Undefined index: comment in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 12
+[13-May-2016 19:12:45 America/Denver] PHP Notice:  Undefined index: time in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 13
+[13-May-2016 19:12:45 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'SpotName' cannot be null' in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php:14
+Stack trace:
+#0 /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php(14): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 14
+[12-Jun-2016 17:18:55 America/Denver] PHP Notice:  Undefined index: spotName in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 3
+[12-Jun-2016 17:18:55 America/Denver] PHP Notice:  Undefined index: name in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 9
+[12-Jun-2016 17:18:55 America/Denver] PHP Notice:  Undefined index: email in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 10
+[12-Jun-2016 17:18:55 America/Denver] PHP Notice:  Undefined index: rating in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 11
+[12-Jun-2016 17:18:55 America/Denver] PHP Notice:  Undefined index: comment in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 12
+[12-Jun-2016 17:18:55 America/Denver] PHP Notice:  Undefined index: time in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 13
+[12-Jun-2016 17:18:55 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'SpotName' cannot be null' in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php:14
+Stack trace:
+#0 /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php(14): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 14
+[12-Jul-2016 17:25:35 America/Denver] PHP Notice:  Undefined index: spotName in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 3
+[12-Jul-2016 17:25:35 America/Denver] PHP Notice:  Undefined index: name in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 9
+[12-Jul-2016 17:25:35 America/Denver] PHP Notice:  Undefined index: email in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 10
+[12-Jul-2016 17:25:35 America/Denver] PHP Notice:  Undefined index: rating in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 11
+[12-Jul-2016 17:25:35 America/Denver] PHP Notice:  Undefined index: comment in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 12
+[12-Jul-2016 17:25:35 America/Denver] PHP Notice:  Undefined index: time in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 13
+[12-Jul-2016 17:25:35 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'SpotName' cannot be null' in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php:14
+Stack trace:
+#0 /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php(14): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 14
+[12-Jul-2016 17:25:38 America/Denver] PHP Notice:  Undefined index: spotName in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 3
+[12-Jul-2016 17:25:38 America/Denver] PHP Notice:  Undefined index: name in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 9
+[12-Jul-2016 17:25:38 America/Denver] PHP Notice:  Undefined index: email in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 10
+[12-Jul-2016 17:25:38 America/Denver] PHP Notice:  Undefined index: rating in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 11
+[12-Jul-2016 17:25:38 America/Denver] PHP Notice:  Undefined index: comment in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 12
+[12-Jul-2016 17:25:38 America/Denver] PHP Notice:  Undefined index: time in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 13
+[12-Jul-2016 17:25:38 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'SpotName' cannot be null' in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php:14
+Stack trace:
+#0 /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php(14): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 14
+[11-Aug-2016 17:28:44 America/Denver] PHP Notice:  Undefined index: spotName in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 3
+[11-Aug-2016 17:28:44 America/Denver] PHP Notice:  Undefined index: name in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 9
+[11-Aug-2016 17:28:44 America/Denver] PHP Notice:  Undefined index: email in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 10
+[11-Aug-2016 17:28:44 America/Denver] PHP Notice:  Undefined index: rating in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 11
+[11-Aug-2016 17:28:44 America/Denver] PHP Notice:  Undefined index: comment in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 12
+[11-Aug-2016 17:28:44 America/Denver] PHP Notice:  Undefined index: time in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 13
+[11-Aug-2016 17:28:44 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'SpotName' cannot be null' in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php:14
+Stack trace:
+#0 /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php(14): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 14
+[10-Sep-2016 17:25:38 America/Denver] PHP Notice:  Undefined index: spotName in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 3
+[10-Sep-2016 17:25:38 America/Denver] PHP Notice:  Undefined index: name in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 9
+[10-Sep-2016 17:25:38 America/Denver] PHP Notice:  Undefined index: email in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 10
+[10-Sep-2016 17:25:38 America/Denver] PHP Notice:  Undefined index: rating in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 11
+[10-Sep-2016 17:25:38 America/Denver] PHP Notice:  Undefined index: comment in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 12
+[10-Sep-2016 17:25:38 America/Denver] PHP Notice:  Undefined index: time in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 13
+[10-Sep-2016 17:25:38 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'SpotName' cannot be null' in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php:14
+Stack trace:
+#0 /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php(14): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 14
+[12-Sep-2016 18:21:15 America/Denver] PHP Notice:  Undefined index: keyword in /home2/kianzykc/public_html/wifis/php/populate.php on line 7
+[10-Oct-2016 17:15:56 America/Denver] PHP Notice:  Undefined index: spotName in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 3
+[10-Oct-2016 17:15:56 America/Denver] PHP Notice:  Undefined index: name in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 9
+[10-Oct-2016 17:15:56 America/Denver] PHP Notice:  Undefined index: email in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 10
+[10-Oct-2016 17:15:56 America/Denver] PHP Notice:  Undefined index: rating in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 11
+[10-Oct-2016 17:15:56 America/Denver] PHP Notice:  Undefined index: comment in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 12
+[10-Oct-2016 17:15:56 America/Denver] PHP Notice:  Undefined index: time in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 13
+[10-Oct-2016 17:15:56 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'SpotName' cannot be null' in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php:14
+Stack trace:
+#0 /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php(14): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 14
+[09-Nov-2016 17:28:41 America/Denver] PHP Notice:  Undefined index: spotName in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 3
+[09-Nov-2016 17:28:41 America/Denver] PHP Notice:  Undefined index: name in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 9
+[09-Nov-2016 17:28:41 America/Denver] PHP Notice:  Undefined index: email in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 10
+[09-Nov-2016 17:28:41 America/Denver] PHP Notice:  Undefined index: rating in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 11
+[09-Nov-2016 17:28:41 America/Denver] PHP Notice:  Undefined index: comment in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 12
+[09-Nov-2016 17:28:41 America/Denver] PHP Notice:  Undefined index: time in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 13
+[09-Nov-2016 17:28:41 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'SpotName' cannot be null' in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php:14
+Stack trace:
+#0 /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php(14): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 14
+[09-Nov-2016 17:28:41 America/Denver] PHP Notice:  Undefined index: spotName in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 3
+[09-Nov-2016 17:28:41 America/Denver] PHP Notice:  Undefined index: name in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 9
+[09-Nov-2016 17:28:41 America/Denver] PHP Notice:  Undefined index: email in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 10
+[09-Nov-2016 17:28:41 America/Denver] PHP Notice:  Undefined index: rating in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 11
+[09-Nov-2016 17:28:41 America/Denver] PHP Notice:  Undefined index: comment in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 12
+[09-Nov-2016 17:28:41 America/Denver] PHP Notice:  Undefined index: time in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 13
+[09-Nov-2016 17:28:41 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'SpotName' cannot be null' in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php:14
+Stack trace:
+#0 /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php(14): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home2/kianzykc/public_html/wifis/php/insert_review_to_database.php on line 14

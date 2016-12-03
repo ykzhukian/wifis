@@ -1,0 +1,593 @@
+[18-Jan-2016 22:37:56 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home2/kianzykc/public_html/WiFis/php/mySQL.php:4
+Stack trace:
+#0 /home2/kianzykc/public_html/WiFis/php/mySQL.php(4): PDO->__construct('mysql:host=loca...', '', '')
+#1 /home2/kianzykc/public_html/WiFis/php/all_spots_query.php(5): include('/home2/kianzykc...')
+#2 /home2/kianzykc/public_html/WiFis/php/map.php(6): include('/home2/kianzykc...')
+#3 /home2/kianzykc/public_html/WiFis/index.php(26): include('/home2/kianzykc...')
+#4 {main}
+  thrown in /home2/kianzykc/public_html/WiFis/php/mySQL.php on line 4
+[18-Jan-2016 22:39:45 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home2/kianzykc/public_html/WiFis/php/mySQL.php:4
+Stack trace:
+#0 /home2/kianzykc/public_html/WiFis/php/mySQL.php(4): PDO->__construct('mysql:host=loca...', '', '')
+#1 /home2/kianzykc/public_html/WiFis/php/all_spots_query.php(5): include('/home2/kianzykc...')
+#2 /home2/kianzykc/public_html/WiFis/php/map.php(6): include('/home2/kianzykc...')
+#3 /home2/kianzykc/public_html/WiFis/index.php(26): include('/home2/kianzykc...')
+#4 {main}
+  thrown in /home2/kianzykc/public_html/WiFis/php/mySQL.php on line 4
+[18-Jan-2016 22:44:48 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home2/kianzykc/public_html/WiFis/php/mySQL.php:4
+Stack trace:
+#0 /home2/kianzykc/public_html/WiFis/php/mySQL.php(4): PDO->__construct('mysql:host=loca...', '', '')
+#1 /home2/kianzykc/public_html/WiFis/php/all_spots_query.php(5): include('/home2/kianzykc...')
+#2 /home2/kianzykc/public_html/WiFis/php/map.php(6): include('/home2/kianzykc...')
+#3 /home2/kianzykc/public_html/WiFis/index.php(26): include('/home2/kianzykc...')
+#4 {main}
+  thrown in /home2/kianzykc/public_html/WiFis/php/mySQL.php on line 4
+[18-Jan-2016 22:45:13 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home2/kianzykc/public_html/WiFis/php/mySQL.php:4
+Stack trace:
+#0 /home2/kianzykc/public_html/WiFis/php/mySQL.php(4): PDO->__construct('mysql:host=loca...', '', '')
+#1 /home2/kianzykc/public_html/WiFis/logIn.php(22): include('/home2/kianzykc...')
+#2 {main}
+  thrown in /home2/kianzykc/public_html/WiFis/php/mySQL.php on line 4
+[18-Jan-2016 22:45:22 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home2/kianzykc/public_html/WiFis/php/mySQL.php:4
+Stack trace:
+#0 /home2/kianzykc/public_html/WiFis/php/mySQL.php(4): PDO->__construct('mysql:host=loca...', '', '')
+#1 /home2/kianzykc/public_html/WiFis/php/all_spots_query.php(5): include('/home2/kianzykc...')
+#2 /home2/kianzykc/public_html/WiFis/php/map.php(6): include('/home2/kianzykc...')
+#3 /home2/kianzykc/public_html/WiFis/item.php(28): include('/home2/kianzykc...')
+#4 {main}
+  thrown in /home2/kianzykc/public_html/WiFis/php/mySQL.php on line 4
+[18-Jan-2016 22:45:23 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home2/kianzykc/public_html/WiFis/php/mySQL.php:4
+Stack trace:
+#0 /home2/kianzykc/public_html/WiFis/php/mySQL.php(4): PDO->__construct('mysql:host=loca...', '', '')
+#1 /home2/kianzykc/public_html/WiFis/php/all_spots_query.php(5): include('/home2/kianzykc...')
+#2 /home2/kianzykc/public_html/WiFis/php/map.php(6): include('/home2/kianzykc...')
+#3 /home2/kianzykc/public_html/WiFis/index.php(26): include('/home2/kianzykc...')
+#4 {main}
+  thrown in /home2/kianzykc/public_html/WiFis/php/mySQL.php on line 4
+[18-Jan-2016 22:45:44 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home2/kianzykc/public_html/WiFis/php/mySQL.php:4
+Stack trace:
+#0 /home2/kianzykc/public_html/WiFis/php/mySQL.php(4): PDO->__construct('mysql:host=loca...', '', '')
+#1 /home2/kianzykc/public_html/WiFis/php/all_spots_query.php(5): include('/home2/kianzykc...')
+#2 /home2/kianzykc/public_html/WiFis/php/map.php(6): include('/home2/kianzykc...')
+#3 /home2/kianzykc/public_html/WiFis/index.php(26): include('/home2/kianzykc...')
+#4 {main}
+  thrown in /home2/kianzykc/public_html/WiFis/php/mySQL.php on line 4
+[18-Jan-2016 23:02:58 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home2/kianzykc/public_html/WiFis/php/mySQL.php:4
+Stack trace:
+#0 /home2/kianzykc/public_html/WiFis/php/mySQL.php(4): PDO->__construct('mysql:host=loca...', '', '')
+#1 /home2/kianzykc/public_html/WiFis/admin.php(26): include('/home2/kianzykc...')
+#2 {main}
+  thrown in /home2/kianzykc/public_html/WiFis/php/mySQL.php on line 4
+[18-Jan-2016 23:44:34 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO)' in /home2/kianzykc/public_html/WiFis/php/mySQL.php:4
+Stack trace:
+#0 /home2/kianzykc/public_html/WiFis/php/mySQL.php(4): PDO->__construct('mysql:host=loca...', '', '')
+#1 /home2/kianzykc/public_html/WiFis/php/all_spots_query.php(5): include('/home2/kianzykc...')
+#2 /home2/kianzykc/public_html/WiFis/php/map.php(6): include('/home2/kianzykc...')
+#3 /home2/kianzykc/public_html/WiFis/index.php(26): include('/home2/kianzykc...')
+#4 {main}
+  thrown in /home2/kianzykc/public_html/WiFis/php/mySQL.php on line 4
+[19-Jan-2016 00:25:19 America/Denver] PHP Notice:  Undefined variable: result_a in /home2/kianzykc/public_html/WiFis/about.php on line 12
+[19-Jan-2016 00:25:19 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/about.php on line 12
+[24-Jan-2016 04:20:51 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 22
+[24-Jan-2016 04:20:51 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 22
+[24-Jan-2016 17:52:36 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 22
+[24-Jan-2016 17:52:36 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 22
+[24-Jan-2016 17:53:01 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kianzykc_wifis.spots' doesn't exist' in /home2/kianzykc/public_html/WiFis/results.php:34
+Stack trace:
+#0 /home2/kianzykc/public_html/WiFis/results.php(34): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home2/kianzykc/public_html/WiFis/results.php on line 34
+[27-Jan-2016 21:30:36 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 22
+[27-Jan-2016 21:30:36 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 22
+[27-Jan-2016 21:30:57 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 22
+[27-Jan-2016 21:30:57 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 22
+[27-Jan-2016 21:32:00 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 22
+[27-Jan-2016 21:32:00 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 22
+[27-Jan-2016 21:36:40 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'kianzykc_wifis.spots' doesn't exist' in /home2/kianzykc/public_html/WiFis/results.php:34
+Stack trace:
+#0 /home2/kianzykc/public_html/WiFis/results.php(34): PDO->query('SELECT * FROM s...')
+#1 {main}
+  thrown in /home2/kianzykc/public_html/WiFis/results.php on line 34
+[27-Jan-2016 21:38:07 America/Denver] PHP Notice:  Undefined variable: result in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 22
+[27-Jan-2016 21:38:07 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 22
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Name in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 23
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Address in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 24
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Suburb in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 25
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Latitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 26
+[27-Jan-2016 21:59:29 America/Denver] PHP Notice:  Undefined index: Longitude in /home2/kianzykc/public_html/WiFis/php/all_spots_query.php on line 27
+[27-Jan-2016 22:04:02 America/Denver] PHP Notice:  Undefined variable: result_a in /home2/kianzykc/public_html/WiFis/about.php on line 12
+[27-Jan-2016 22:04:02 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/about.php on line 12
+[27-Jan-2016 22:05:17 America/Denver] PHP Notice:  Undefined variable: result_a in /home2/kianzykc/public_html/WiFis/about.php on line 12
+[27-Jan-2016 22:05:17 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/about.php on line 12
+[27-Jan-2016 22:10:49 America/Denver] PHP Notice:  Undefined variable: result_a in /home2/kianzykc/public_html/WiFis/about.php on line 12
+[27-Jan-2016 22:10:49 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home2/kianzykc/public_html/WiFis/about.php on line 12
+[27-Jan-2016 22:11:06 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'n9253921'@'localhost' (using password: YES)' in /home2/kianzykc/public_html/WiFis/php/registration_form_validation.inc:4
+Stack trace:
+#0 /home2/kianzykc/public_html/WiFis/php/registration_form_validation.inc(4): PDO->__construct('mysql:host=loca...', 'n9253921', 'kk12140609@')
+#1 /home2/kianzykc/public_html/WiFis/registration.php(34): validateEmail(Array, Array, 'email')
+#2 {main}
+  thrown in /home2/kianzykc/public_html/WiFis/php/registration_form_validation.inc on line 4
+[27-Jan-2016 22:14:14 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'n9253921'@'localhost' (using password: YES)' in /home2/kianzykc/public_html/WiFis/php/registration_form_validation.inc:4
+Stack trace:
+#0 /home2/kianzykc/public_html/WiFis/php/registration_form_validation.inc(4): PDO->__construct('mysql:host=loca...', 'n9253921', 'kk12140609@')
+#1 /home2/kianzykc/public_html/WiFis/registration.php(34): validateEmail(Array, Array, 'email')
+#2 {main}
+  thrown in /home2/kianzykc/public_html/WiFis/php/registration_form_validation.inc on line 4
+[27-Jan-2016 22:16:45 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'n9253921'@'localhost' (using password: YES)' in /home2/kianzykc/public_html/WiFis/php/registration_form_validation.inc:4
+Stack trace:
+#0 /home2/kianzykc/public_html/WiFis/php/registration_form_validation.inc(4): PDO->__construct('mysql:host=loca...', 'n9253921', 'kk12140609@')
+#1 /home2/kianzykc/public_html/WiFis/registration.php(34): validateEmail(Array, Array, 'email')
+#2 {main}
+  thrown in /home2/kianzykc/public_html/WiFis/php/registration_form_validation.inc on line 4
+[27-Jan-2016 22:18:30 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'n9253921'@'localhost' (using password: YES)' in /home2/kianzykc/public_html/WiFis/php/registration_form_validation.inc:4
+Stack trace:
+#0 /home2/kianzykc/public_html/WiFis/php/registration_form_validation.inc(4): PDO->__construct('mysql:host=loca...', 'n9253921', 'kk12140609@')
+#1 /home2/kianzykc/public_html/WiFis/registration.php(34): validateEmail(Array, Array, 'email')
+#2 {main}
+  thrown in /home2/kianzykc/public_html/WiFis/php/registration_form_validation.inc on line 4
+[27-Jan-2016 22:19:44 America/Denver] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[28000] [1045] Access denied for user 'n9253921'@'localhost' (using password: YES)' in /home2/kianzykc/public_html/WiFis/php/log_in_validation.inc:5
+Stack trace:
+#0 /home2/kianzykc/public_html/WiFis/php/log_in_validation.inc(5): PDO->__construct('mysql:host=loca...', 'n9253921', 'kk12140609@')
+#1 /home2/kianzykc/public_html/WiFis/logIn.php(40): validateEmail(Array, Array, 'email')
+#2 {main}
+  thrown in /home2/kianzykc/public_html/WiFis/php/log_in_validation.inc on line 5
+[01-Feb-2016 17:46:35 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[01-Feb-2016 17:46:35 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[01-Feb-2016 17:46:35 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[01-Feb-2016 17:46:35 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[01-Feb-2016 17:46:35 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[01-Feb-2016 17:46:35 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[09-May-2016 17:57:06 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[09-May-2016 17:57:06 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[09-May-2016 17:57:06 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[09-May-2016 17:57:06 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[09-May-2016 17:57:06 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[09-May-2016 17:57:06 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[13-May-2016 19:12:33 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/item.php on line 63
+[13-May-2016 19:12:33 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/item.php on line 64
+[13-May-2016 19:12:37 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[13-May-2016 19:12:37 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[13-May-2016 19:12:37 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[13-May-2016 19:12:37 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[13-May-2016 19:12:37 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[13-May-2016 19:12:37 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[13-May-2016 19:12:41 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[13-May-2016 19:12:41 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[13-May-2016 19:12:41 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[13-May-2016 19:12:41 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[13-May-2016 19:12:41 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[13-May-2016 19:12:41 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[05-Jun-2016 17:22:56 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[05-Jun-2016 17:22:56 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[05-Jun-2016 17:22:56 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[05-Jun-2016 17:22:56 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[05-Jun-2016 17:22:56 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[05-Jun-2016 17:22:56 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[11-Jun-2016 17:17:37 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[11-Jun-2016 17:17:37 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[11-Jun-2016 17:17:37 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[11-Jun-2016 17:17:37 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[11-Jun-2016 17:17:37 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[11-Jun-2016 17:17:37 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[12-Jun-2016 17:18:51 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/item.php on line 63
+[12-Jun-2016 17:18:51 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/item.php on line 64
+[12-Jun-2016 17:18:53 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[12-Jun-2016 17:18:53 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[12-Jun-2016 17:18:53 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[12-Jun-2016 17:18:53 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[12-Jun-2016 17:18:53 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[12-Jun-2016 17:18:53 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[12-Jun-2016 17:18:54 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[12-Jun-2016 17:18:54 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[12-Jun-2016 17:18:54 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[12-Jun-2016 17:18:54 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[12-Jun-2016 17:18:54 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[12-Jun-2016 17:18:54 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[13-Jun-2016 17:26:11 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/item.php on line 63
+[13-Jun-2016 17:26:11 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/item.php on line 64
+[19-Jun-2016 17:23:43 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[19-Jun-2016 17:23:43 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[19-Jun-2016 17:23:43 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[19-Jun-2016 17:23:43 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[19-Jun-2016 17:23:43 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[19-Jun-2016 17:23:43 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[30-Jun-2016 17:30:08 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[30-Jun-2016 17:30:08 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[30-Jun-2016 17:30:08 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[30-Jun-2016 17:30:08 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[30-Jun-2016 17:30:08 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[30-Jun-2016 17:30:08 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[04-Jul-2016 17:21:22 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/item.php on line 63
+[04-Jul-2016 17:21:22 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/item.php on line 64
+[04-Jul-2016 17:21:25 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[04-Jul-2016 17:21:25 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[04-Jul-2016 17:21:25 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[04-Jul-2016 17:21:25 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[04-Jul-2016 17:21:25 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[04-Jul-2016 17:21:25 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[12-Jul-2016 17:25:34 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[12-Jul-2016 17:25:34 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[12-Jul-2016 17:25:34 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[12-Jul-2016 17:25:34 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[12-Jul-2016 17:25:34 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[12-Jul-2016 17:25:34 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[12-Jul-2016 17:25:36 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[12-Jul-2016 17:25:36 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[12-Jul-2016 17:25:36 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[12-Jul-2016 17:25:36 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[12-Jul-2016 17:25:36 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[12-Jul-2016 17:25:36 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[12-Jul-2016 17:25:40 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[12-Jul-2016 17:25:40 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[12-Jul-2016 17:25:40 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[12-Jul-2016 17:25:40 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[12-Jul-2016 17:25:40 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[12-Jul-2016 17:25:40 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[13-Jul-2016 17:26:17 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[13-Jul-2016 17:26:17 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[13-Jul-2016 17:26:17 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[13-Jul-2016 17:26:17 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[13-Jul-2016 17:26:17 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[13-Jul-2016 17:26:17 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[13-Jul-2016 17:26:17 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/item.php on line 63
+[13-Jul-2016 17:26:17 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/item.php on line 64
+[16-Jul-2016 17:20:17 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[16-Jul-2016 17:20:17 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[16-Jul-2016 17:20:17 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[16-Jul-2016 17:20:17 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[16-Jul-2016 17:20:17 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[16-Jul-2016 17:20:17 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[02-Aug-2016 17:21:55 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[02-Aug-2016 17:21:55 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[02-Aug-2016 17:21:55 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[02-Aug-2016 17:21:55 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[02-Aug-2016 17:21:55 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[02-Aug-2016 17:21:55 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[04-Aug-2016 17:22:19 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[04-Aug-2016 17:22:19 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[04-Aug-2016 17:22:19 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[04-Aug-2016 17:22:19 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[04-Aug-2016 17:22:19 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[04-Aug-2016 17:22:19 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[11-Aug-2016 17:28:37 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[11-Aug-2016 17:28:37 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[11-Aug-2016 17:28:37 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[11-Aug-2016 17:28:37 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[11-Aug-2016 17:28:37 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[11-Aug-2016 17:28:37 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[11-Aug-2016 17:28:39 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[11-Aug-2016 17:28:39 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[11-Aug-2016 17:28:39 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[11-Aug-2016 17:28:39 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[11-Aug-2016 17:28:39 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[11-Aug-2016 17:28:39 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[10-Sep-2016 17:25:29 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[10-Sep-2016 17:25:29 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[10-Sep-2016 17:25:29 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[10-Sep-2016 17:25:29 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[10-Sep-2016 17:25:29 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[10-Sep-2016 17:25:29 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[10-Sep-2016 17:25:32 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[10-Sep-2016 17:25:32 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[10-Sep-2016 17:25:32 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[10-Sep-2016 17:25:32 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[10-Sep-2016 17:25:32 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[10-Sep-2016 17:25:32 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[12-Sep-2016 18:21:19 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[12-Sep-2016 18:21:19 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[12-Sep-2016 18:21:19 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[12-Sep-2016 18:21:19 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[12-Sep-2016 18:21:19 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[12-Sep-2016 18:21:19 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[19-Sep-2016 17:22:10 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[19-Sep-2016 17:22:10 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[19-Sep-2016 17:22:10 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[19-Sep-2016 17:22:10 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[19-Sep-2016 17:22:10 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[19-Sep-2016 17:22:10 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[10-Oct-2016 17:15:48 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[10-Oct-2016 17:15:48 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[10-Oct-2016 17:15:48 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[10-Oct-2016 17:15:48 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[10-Oct-2016 17:15:48 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[10-Oct-2016 17:15:48 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[15-Oct-2016 17:48:58 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[15-Oct-2016 17:48:58 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[15-Oct-2016 17:48:58 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[15-Oct-2016 17:48:58 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[15-Oct-2016 17:48:58 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[15-Oct-2016 17:48:58 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[09-Nov-2016 17:28:42 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[09-Nov-2016 17:28:42 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[09-Nov-2016 17:28:42 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[09-Nov-2016 17:28:42 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[09-Nov-2016 17:28:42 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[09-Nov-2016 17:28:42 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[09-Nov-2016 17:28:45 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[09-Nov-2016 17:28:45 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[09-Nov-2016 17:28:45 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[09-Nov-2016 17:28:45 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[09-Nov-2016 17:28:45 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[09-Nov-2016 17:28:45 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[16-Nov-2016 17:38:46 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[16-Nov-2016 17:38:46 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[16-Nov-2016 17:38:46 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[16-Nov-2016 17:38:46 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[16-Nov-2016 17:38:46 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[16-Nov-2016 17:38:46 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
+[27-Nov-2016 18:28:12 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 34
+[27-Nov-2016 18:28:12 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 34
+[27-Nov-2016 18:28:12 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 53
+[27-Nov-2016 18:28:12 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 53
+[27-Nov-2016 18:28:12 America/Denver] PHP Notice:  Undefined index: search in /home2/kianzykc/public_html/wifis/results.php on line 58
+[27-Nov-2016 18:28:12 America/Denver] PHP Notice:  Undefined index: suburb in /home2/kianzykc/public_html/wifis/results.php on line 58
